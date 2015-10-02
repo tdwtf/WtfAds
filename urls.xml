@@ -35,7 +35,7 @@
   </company>
   <company name="Infragistics" defaultUrl="http://www.infragistics.com/products/ultimate?utm_source=dailywtf&amp;utm_medium=300x250banner&amp;utm_campaign=ultimate">
     <ad fileName="Ultimate_1.jpg" url="http://www.infragistics.com/products/ultimate?utm_source=dailywtf&amp;utm_medium=300x250banner&amp;utm_campaign=ultimate" />
-    <ad fileName="Ultimate_970_90.jpg" url="http://www.infragistics.com/resources/sample-applications?utm_source=dailywtf&utm_medium=728x90banner&utm_campaign=ultimate-samples" />
+    <ad fileName="Ultimate_970_90.jpg" url="http://www.infragistics.com/resources/sample-applications?utm_source=dailywtf&amp;utm_medium=728x90banner&amp;utm_campaign=ultimate-samples" />
   </company>
   <company name="Puppet1" defaultUrl="https://2015.puppetconf.com?ls=ad&amp;ccn=DailyWTF-puppetconf-2015&amp;cid=701G0000000FG44">
     <ad fileName="devops-daily-970x90.jpg" />
