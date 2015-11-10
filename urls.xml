@@ -37,8 +37,8 @@
     <ad fileName="Ultimate_1.jpg" url="http://www.infragistics.com/products/ultimate?utm_source=dailywtf&amp;utm_medium=300x250banner&amp;utm_campaign=ultimate" />
     <ad fileName="Ultimate_970_90.jpg" url="http://www.infragistics.com/resources/sample-applications?utm_source=dailywtf&amp;utm_medium=728x90banner&amp;utm_campaign=ultimate-samples" />
   </company>
-  <company name="Puppet1" defaultUrl="https://2015.puppetconf.com?ls=ad&amp;ccn=DailyWTF-puppetconf-2015&amp;cid=701G0000000FG44">
-    <ad fileName="devops-daily-970x90.jpg" />
-    <ad fileName="devops-daily-300x600.jpg" />
+  <company name="Puppet1" defaultUrl="https://puppetlabs.com/puppet/puppet-apps/application-orchestration?ls=advertisement&ccn=ankeny-2015&pub=dailywtf&cid=701G0000000Fl5t&utm_medium=banner&utm_campaign=ankeny-2015&utm_source=dailywtf&utm_content=ankeny-news">
+    <ad fileName="pe-dailywtf-970x90.png" />
+    <ad fileName="pe-dailywtf-300x250.png" />
   </company>
 </companies>
