@@ -29,10 +29,7 @@
     <ad fileName="inedo-300by250_ad5.png" url="http://inedo.com/promos/buildmaster-tdwtf?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=tc3" />
     <ad fileName="inedo-300by250_ad6.png" url="http://inedo.com/promos/buildmaster-tdwtf?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=jenkins3" />
   </company>
-  <company name="Scout" defaultUrl="https://scoutapp.com/?utm_source=tdwtf&amp;utm_medium=banner_300x250&amp;utm_campaign=june_2015">
-    <ad fileName="scout-300x250.png" url="https://scoutapp.com/?utm_source=tdwtf&amp;utm_medium=banner_728x90&amp;utm_campaign=june_2015" />
-    <ad fileName="scout-728x90.png" url="https://scoutapp.com/?utm_source=tdwtf&amp;utm_medium=banner_300x250&amp;utm_campaign=june_2015" />
-  </company>
+ 
   <company name="Infragistics" defaultUrl="http://www.infragistics.com/products/ultimate?utm_source=dailywtf&amp;utm_medium=300x250banner&amp;utm_campaign=ultimate">
     <ad fileName="infragistics-300by250_ultimate.jpg" url="http://www.infragistics.com/products/ultimate?utm_source=dailywtf&amp;utm_medium=300x250banner&amp;utm_campaign=ultimate" />
     <ad fileName="infragistics-970by90_ultimate.jpg" url="http://www.infragistics.com/resources/sample-applications?utm_source=dailywtf&amp;utm_medium=728x90banner&amp;utm_campaign=ultimate-samples" />
