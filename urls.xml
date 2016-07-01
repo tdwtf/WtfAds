@@ -49,7 +49,7 @@
     <ad fileName="inedo-300by250_intro-otter9.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter9square" />
     <ad fileName="inedo-300by250_intro-otter10.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter10square" />
   </company>
-   <company name="Inedo3" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf15">
+  <company name="Inedo3" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf15">
     <ad fileName="inedo-970by90_ad2.png" url="http://inedo.com/promos/buildmaster-tdwtf?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=devops9" />
     <ad fileName="inedo-970by90_ad3.png" url="http://inedo.com/promos/buildmaster-tdwtf?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=tfs9" />
     <ad fileName="inedo-728by90_intro-otter1.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter1" />
@@ -74,7 +74,7 @@
     <ad fileName="inedo-300by250_intro-otter9.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter9square" />
     <ad fileName="inedo-300by250_intro-otter10.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter10square" />
   </company>
- <company name="Inedo4" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf15">
+  <company name="Inedo4" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf15">
     <ad fileName="inedo-970by90_ad2.png" url="http://inedo.com/promos/buildmaster-tdwtf?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=devops9" />
     <ad fileName="inedo-970by90_ad3.png" url="http://inedo.com/promos/buildmaster-tdwtf?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=tfs9" />
     <ad fileName="inedo-728by90_intro-otter1.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter1" />
@@ -99,14 +99,9 @@
     <ad fileName="inedo-300by250_intro-otter9.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter9square" />
     <ad fileName="inedo-300by250_intro-otter10.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter10square" />
   </company>
-
   <company name="Puppet1" defaultUrl="https://puppetlabs.com/puppet/puppet-apps/application-orchestration?ls=advertisement&amp;ccn=ankeny-2015&amp;pub=dailywtf&amp;cid=701G0000000Fl5t&amp;utm_medium=banner&amp;utm_campaign=ankeny-2015&amp;utm_source=dailywtf&amp;utm_content=ankeny-news">
     <ad fileName="puppet-300x250_D911-display-ads-PE-DailyWTF.jpg" />
     <ad fileName="puppet-970x90_D911-display-ads-PE-DailyWTF.jpg" />
   </company>
-  
-  <company name="Atalasoft1" defaultUrl="http://www.atalasoft.com/Home?utm_source=dailywtf&amp;utm_medium=banner&amp;utm_campaign=dailywtf%20ads">
-    <ad fileName="Atalasoft-160-x-600_Savvy.gif" />
-    <ad fileName="Atalasoft-728x90_Savvy.gif" />
-  </company>
+ 
 </companies>
