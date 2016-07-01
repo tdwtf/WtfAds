@@ -103,5 +103,8 @@
     <ad fileName="puppet-300x250_D911-display-ads-PE-DailyWTF.jpg" />
     <ad fileName="puppet-970x90_D911-display-ads-PE-DailyWTF.jpg" />
   </company>
- 
+  <company name="Atalasoft1" defaultUrl="http://www.atalasoft.com/Home?utm_source=dailywtf&amp;utm_medium=banner&amp;utm_campaign=dailywtf%20ads">
+    <ad fileName="Atalasoft-160-x-600_Savvy.gif" />
+    <ad fileName="Atalasoft-728x90_Savvy.gif" />
+  </company>
 </companies>
