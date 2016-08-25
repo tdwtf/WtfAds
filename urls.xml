@@ -74,8 +74,10 @@
     <ad fileName="inedo-300by250_intro-otter9.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter9square" />
     <ad fileName="inedo-300by250_intro-otter10.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter10square" />
   </company>
-  
+  <!--Special Projects-->
   <company name="Inedo4" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=sp-set09-16">
+    <!--Release-->
+
     <ad fileName="rel-970by90_h1.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=suits&amp;utm_campaign=sp-set09-16" />
     <ad fileName="rel-970by90_h2.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=fdbd&amp;utm_campaign=sp-set09-16" />
     <ad fileName="rel-970by90_h3.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=characters-all&amp;utm_campaign=sp-set09-16" />
@@ -83,6 +85,8 @@
     <ad fileName="rel-300by250_jp.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=jp&amp;utm_campaign=sp-set09-16" />
     <ad fileName="rel-300by250_lr.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=lr&amp;utm_campaign=sp-set09-16" />
     <ad fileName="rel-300by250_pd.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=pd&amp;utm_campaign=sp-set09-16" />
+
+    <!--ABC-->
     <ad fileName="abc-970by90_h.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=unicorns&amp;utm_campaign=sp-set09-16" />
     <ad fileName="abc-970by90_h2.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=cookies&amp;utm_campaign=sp-set09-16" />
     <ad fileName="abc-970by90_h3.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=blurb&amp;utm_campaign=sp-set09-16" />
