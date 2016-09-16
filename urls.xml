@@ -23,6 +23,35 @@
     <ad fileName="inedo-300by250_intro-otter8.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter8square" />
     <ad fileName="inedo-300by250_intro-otter9.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter9square" />
     <ad fileName="inedo-300by250_intro-otter10.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter10square" />
+
+    <ad fileName="bm-ara-ui-blue-300X250.png" url="http://inedo.com/promos/buildmaster-v5?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="bm-central-dashboard-300X250.png" url="http://inedo.com/buildmaster?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=dashboard&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="bm-for-devops-red-300X250.png" url="http://inedo.com/buildmaster?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=devops-red&amp;utm_campaign=Q4-2016" />
+
+
+    <ad fileName="bm-geometric-logo-300X250.png" url="http://inedo.com/promos/buildmaster-v5?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
+
+
+    <ad fileName="bm-geometric-no-logo-300X250.png" url="http://inedo.com/promos/buildmaster-v5?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=geometric-no-logo&amp;utm_campaign=Q4-2016" />
+
+
+    <ad fileName="bm-pipelines-as-code-300X250.png" url="http://inedo.com/promos/buildmaster-landing-pipelines?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=pipelines&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-built-for-windows-purple-300X250.png" url="http://inedo.com/promos/otter-v1?utm_source=TDWTF&amp;utm_medium=300.250&amp;utm_term=Otter&amp;utm_content=build-for-windows&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-floating-otter-300X250.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=floating-otter&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-geometric-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-geometric-no-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=geometric-no-logo&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-hashes-iac-windows-300X250.png" url="http://inedo.com/promos/otter-v1?utm_source=TDWTF&amp;utm_medium=300.250&amp;utm_term=Otter&amp;utm_content=hashes-iac&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-iac-circle-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=iac-circle&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-single-logo-300X250.pngg" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=single-logo&amp;utm_campaign=Q4-2016" />
   </company>
   <company name="Inedo2" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf15">
     <ad fileName="inedo-970by90_ad2.png" url="http://inedo.com/promos/buildmaster-tdwtf?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=devops9" />
@@ -48,6 +77,35 @@
     <ad fileName="inedo-300by250_intro-otter8.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter8square" />
     <ad fileName="inedo-300by250_intro-otter9.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter9square" />
     <ad fileName="inedo-300by250_intro-otter10.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter10square" />
+
+    <ad fileName="bm-ara-ui-blue-300X250.png" url="http://inedo.com/promos/buildmaster-v5?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="bm-central-dashboard-300X250.png" url="http://inedo.com/buildmaster?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=dashboard&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="bm-for-devops-red-300X250.png" url="http://inedo.com/buildmaster?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=devops-red&amp;utm_campaign=Q4-2016" />
+
+
+    <ad fileName="bm-geometric-logo-300X250.png" url="http://inedo.com/promos/buildmaster-v5?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
+
+
+    <ad fileName="bm-geometric-no-logo-300X250.png" url="http://inedo.com/promos/buildmaster-v5?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=geometric-no-logo&amp;utm_campaign=Q4-2016" />
+
+
+    <ad fileName="bm-pipelines-as-code-300X250.png" url="http://inedo.com/promos/buildmaster-landing-pipelines?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=pipelines&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-built-for-windows-purple-300X250.png" url="http://inedo.com/promos/otter-v1?utm_source=TDWTF&amp;utm_medium=300.250&amp;utm_term=Otter&amp;utm_content=build-for-windows&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-floating-otter-300X250.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=floating-otter&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-geometric-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-geometric-no-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=geometric-no-logo&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-hashes-iac-windows-300X250.png" url="http://inedo.com/promos/otter-v1?utm_source=TDWTF&amp;utm_medium=300.250&amp;utm_term=Otter&amp;utm_content=hashes-iac&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-iac-circle-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=iac-circle&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-single-logo-300X250.pngg" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=single-logo&amp;utm_campaign=Q4-2016" />
   </company>
   <company name="Inedo3" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf15">
     <ad fileName="inedo-970by90_ad2.png" url="http://inedo.com/promos/buildmaster-tdwtf?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=devops9" />
@@ -73,8 +131,37 @@
     <ad fileName="inedo-300by250_intro-otter8.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter8square" />
     <ad fileName="inedo-300by250_intro-otter9.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter9square" />
     <ad fileName="inedo-300by250_intro-otter10.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter10square" />
+
+    <ad fileName="bm-ara-ui-blue-300X250.png" url="http://inedo.com/promos/buildmaster-v5?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="bm-central-dashboard-300X250.png" url="http://inedo.com/buildmaster?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=dashboard&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="bm-for-devops-red-300X250.png" url="http://inedo.com/buildmaster?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=devops-red&amp;utm_campaign=Q4-2016" />
+
+
+    <ad fileName="bm-geometric-logo-300X250.png" url="http://inedo.com/promos/buildmaster-v5?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
+
+
+    <ad fileName="bm-geometric-no-logo-300X250.png" url="http://inedo.com/promos/buildmaster-v5?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=geometric-no-logo&amp;utm_campaign=Q4-2016" />
+
+
+    <ad fileName="bm-pipelines-as-code-300X250.png" url="http://inedo.com/promos/buildmaster-landing-pipelines?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=pipelines&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-built-for-windows-purple-300X250.png" url="http://inedo.com/promos/otter-v1?utm_source=TDWTF&amp;utm_medium=300.250&amp;utm_term=Otter&amp;utm_content=build-for-windows&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-floating-otter-300X250.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=floating-otter&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-geometric-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-geometric-no-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=geometric-no-logo&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-hashes-iac-windows-300X250.png" url="http://inedo.com/promos/otter-v1?utm_source=TDWTF&amp;utm_medium=300.250&amp;utm_term=Otter&amp;utm_content=hashes-iac&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-iac-circle-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=iac-circle&amp;utm_campaign=Q4-2016" />
+
+    <ad fileName="ot-single-logo-300X250.pngg" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=single-logo&amp;utm_campaign=Q4-2016" />
   </company>
-  
+
   <company name="Inedo4" defaultUrl="http://inedo.com/?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=suits&amp;utm_campaign=sp-set09-16">
     <ad fileName="rel-970by90_h1.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=suits&amp;utm_campaign=sp-set09-16" />
     <ad fileName="rel-970by90_h2.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=fdbd&amp;utm_campaign=sp-set09-16" />
@@ -94,7 +181,7 @@
     <ad fileName="abc-300by250_5.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=cookies&amp;utm_campaign=sp-set09-16" />
     <ad fileName="abc-300by250_6.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=cover&amp;utm_campaign=sp-set09-16" />
     <ad fileName="abc-300by250_7.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=coloring&amp;utm_campaign=sp-set09-16" />
- </company>
+  </company>
   <company name="Puppet1" defaultUrl="https://puppetlabs.com/puppet/puppet-apps/application-orchestration?ls=advertisement&amp;ccn=ankeny-2015&amp;pub=dailywtf&amp;cid=701G0000000Fl5t&amp;utm_medium=banner&amp;utm_campaign=ankeny-2015&amp;utm_source=dailywtf&amp;utm_content=ankeny-news">
     <ad fileName="puppet-300x250_D911-display-ads-PE-DailyWTF.jpg" />
     <ad fileName="puppet-970x90_D911-display-ads-PE-DailyWTF.jpg" />
