@@ -181,6 +181,25 @@
     <ad fileName="abc-300by250_5.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=cookies&amp;utm_campaign=sp-set09-16" />
     <ad fileName="abc-300by250_6.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=cover&amp;utm_campaign=sp-set09-16" />
     <ad fileName="abc-300by250_7.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=coloring&amp;utm_campaign=sp-set09-16" />
+
+    <ad fileName="co-bills-stop-bad-code-970x90.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=banner&amp;utm_content=stop&amp;utm_campaign=set09-16" />
+
+    <ad fileName="co-portraits-code-offsets-970x90.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=banner&amp;utm_content=portrait-slogan&amp;utm_campaign=set09-16" />
+
+    <ad fileName="co-portraits-code-offsets-cta-970x90.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=banner&amp;utm_content=portrait-cta&amp;utm_campaign=set09-16" />
+
+    <ad fileName="co-portraits-no-text-970x90.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=banner&amp;utm_content=portrait-no-text&amp;utm_campaign=set09-16" />
+
+    <ad fileName="co-featuring-ada-300x250.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=feat-ada&amp;utm_campaign=set09-16" />
+
+    <ad fileName="co-latest-inedo-300x250.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=get-yours&amp;utm_campaign=set09-16" />
+
+    <ad fileName="co-stop-bad-code-300x250.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=stop&amp;utm_campaign=set09-16" />
+
+    <ad fileName="co-wtf-code-300x250.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=wtf-code&amp;utm_campaign=set09-16" />
+
+    <ad fileName="co-wtf-code-offsets-300x250.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=wtf-arrow&amp;utm_campaign=set09-16" />
+
   </company>
   <company name="Puppet1" defaultUrl="https://puppetlabs.com/puppet/puppet-apps/application-orchestration?ls=advertisement&amp;ccn=ankeny-2015&amp;pub=dailywtf&amp;cid=701G0000000Fl5t&amp;utm_medium=banner&amp;utm_campaign=ankeny-2015&amp;utm_source=dailywtf&amp;utm_content=ankeny-news">
     <ad fileName="puppet-300x250_D911-display-ads-PE-DailyWTF.jpg" />
