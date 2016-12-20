@@ -120,4 +120,12 @@
     <ad fileName="Atalasoft-300x250_Savvy.gif" />
     <ad fileName="Atalasoft-728x90_Savvy.gif" />
   </company>
+  <company name="Hired1" defaultUrl="https://hired.com/join?utm_source=sponsor&amp;utm_medium=thedailywtf&amp;utm_content=banner&amp;utm_campaign=q1-17-thedailywtf-banner">
+    <ad fileName="2ThisIsTheYearI_728x90.png" />
+    <ad fileName="4ThisIsTheYearI_728x90.png" />
+    <ad fileName="5ThisIsTheYearI_728x90.png" />
+    <ad fileName="6ThisIsTheYearI_728x90.png" />
+    <ad fileName="yourlifeswork_728x90.png" />
+    <ad fileName="b2c-findyournext_728x90.gif" />
+  </company>
 </companies>
