@@ -1,54 +1,64 @@
 <companies>
   <company name="Inedo1" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf15">
-    <ad fileName="inedo-728by90_intro-otter3.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter3" />
-    <ad fileName="inedo-728by90_intro-otter6.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter6" />
-    <ad fileName="horiz-nuget-simple.png" url="https://register.gotowebinar.com/register/970291909971644931?utm_source=TDWTF&amp;utm_medium=970x90&amp;utm_campaign=Simple&amp;utm_content=NuGet_Training" />
-    <ad fileName="horiz-nuget-details.png" url="https://register.gotowebinar.com/register/970291909971644931?utm_source=TDWTF&amp;utm_medium=970x90&amp;utm_campaign=Details&amp;utm_content=NuGet_Training" />
-    <ad fileName="inedo-300by250_intro-otter8.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter8square" />
-    <ad fileName="bm-geometric-logo-300X250.png" url="http://inedo.com/promos/buildmaster-v5?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
+    <ad fileName="bm-deploy-q4.png" url="https://inedo.com/solutions/release-deployment?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=bm-deploy-q4" />
+    <ad fileName="h-bm-deploy-q4.png" url="https://inedo.com/solutions/release-deployment?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-bm-deploy-q4" />
+    <ad fileName="inedo-ps-q4.png" url="https://inedo.com/products?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=inedo-ps-q4" />
+    <ad fileName="inedo-pts-q4.png" url="https://inedo.com/products?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=inedo-pts-q4" />
+    <ad fileName="h-inedo-ps-q4.png" url="https://inedo.com/products?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-inedo-ps-q4" />
+    <ad fileName="h-inedo-pts-q4.png" url="https://inedo.com/products?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-inedo-pts-q4" />
+    <ad fileName="ot-powershell-q4.png" url="https://inedo.com/promos/otter-ps-windows-horiz-q12017?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=ot-powershell-q4" />
+    <ad fileName="ot-window-q4.png" url="https://inedo.com/promos/otter-ps-windows-horiz-q12017?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=ot-window-q4" />
+    <ad fileName="h-ot-powershell-q4.png" url="https://inedo.com/promos/otter-ps-windows-horiz-q12017?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-ot-powershell-q4" />
+    <ad fileName="h-ot-window-q4.png" url="https://inedo.com/promos/otter-ps-windows-horiz-q12017?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-ot-window-q4" />
+    <ad fileName="h-pg-50-q4.png" url="https://inedo.com/proget/5.0?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-50-q4" />
+    <ad fileName="pg-cloud-q4.png" url="https://inedo.com/support/documentation/proget/storage/cloud-storage?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=pg-cloud-q4" />
+    <ad fileName="h-pg-cloud-q4.png" url="https://inedo.com/support/documentation/proget/storage/cloud-storage?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-cloud-q4" />
+    <ad fileName="pg-docker-q4.png" url="https://inedo.com/support/documentation/proget/core-concepts/containers?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=pg-docker-q4" />
+    <ad fileName="h-pg-docker-q4.png" url="https://inedo.com/support/documentation/proget/core-concepts/containers?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-docker-q4" />
+    <ad fileName="pg-manage-q4.png" url="https://inedo.com/proget?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=pg-manage-q4" />
+    <ad fileName="h-pg-manage-q4.png" url="https://inedo.com/proget?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-manage-q4" />
     <ad fileName="bm-pipelines-as-code-300X250.png" url="http://inedo.com/promos/buildmaster-landing-pipelines?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=pipelines&amp;utm_campaign=Q4-2016" />
-    <ad fileName="ot-built-for-windows-purple-300X250.png" url="http://inedo.com/promos/otter-v1?utm_source=TDWTF&amp;utm_medium=300.250&amp;utm_term=Otter&amp;utm_content=build-for-windows&amp;utm_campaign=Q4-2016" />
-    <ad fileName="ot-floating-otter-300X250.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=floating-otter&amp;utm_campaign=Q4-2016" />
-    <ad fileName="ot-geometric-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
-    <ad fileName="ot-iac-circle-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=iac-circle&amp;utm_campaign=Q4-2016" />
-    <ad fileName="sq-nuget-details.png" url="https://register.gotowebinar.com/register/970291909971644931?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_campaign=Details&amp;utm_content=NuGet_Training" />
-    <ad fileName="sq-nuget-simple.png" url="https://register.gotowebinar.com/register/970291909971644931?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_campaign=Simple&amp;utm_content=NuGet_Training" />
   </company>
-
   <company name="Inedo2" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf15">
-    <ad fileName="inedo-728by90_intro-otter3.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter3" />
-    <ad fileName="inedo-728by90_intro-otter6.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter6" />
-    <ad fileName="horiz-nuget-simple.png" url="https://register.gotowebinar.com/register/970291909971644931?utm_source=TDWTF&amp;utm_medium=970x90&amp;utm_campaign=Simple&amp;utm_content=NuGet_Training" />
-    <ad fileName="horiz-nuget-details.png" url="https://register.gotowebinar.com/register/970291909971644931?utm_source=TDWTF&amp;utm_medium=970x90&amp;utm_campaign=Details&amp;utm_content=NuGet_Training" />
-    <ad fileName="inedo-300by250_intro-otter8.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter8square" />
-    <ad fileName="inedo-300by250_intro-otter9.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter9square" />
-    <ad fileName="bm-geometric-logo-300X250.png" url="http://inedo.com/promos/buildmaster-v5?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
+    <ad fileName="bm-deploy-q4.png" url="https://inedo.com/solutions/release-deployment?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=bm-deploy-q4" />
+    <ad fileName="h-bm-deploy-q4.png" url="https://inedo.com/solutions/release-deployment?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-bm-deploy-q4" />
+    <ad fileName="inedo-ps-q4.png" url="https://inedo.com/products?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=inedo-ps-q4" />
+    <ad fileName="inedo-pts-q4.png" url="https://inedo.com/products?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=inedo-pts-q4" />
+    <ad fileName="h-inedo-ps-q4.png" url="https://inedo.com/products?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-inedo-ps-q4" />
+    <ad fileName="h-inedo-pts-q4.png" url="https://inedo.com/products?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-inedo-pts-q4" />
+    <ad fileName="ot-powershell-q4.png" url="https://inedo.com/promos/otter-ps-windows-horiz-q12017?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=ot-powershell-q4" />
+    <ad fileName="ot-window-q4.png" url="https://inedo.com/promos/otter-ps-windows-horiz-q12017?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=ot-window-q4" />
+    <ad fileName="h-ot-powershell-q4.png" url="https://inedo.com/promos/otter-ps-windows-horiz-q12017?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-ot-powershell-q4" />
+    <ad fileName="h-ot-window-q4.png" url="https://inedo.com/promos/otter-ps-windows-horiz-q12017?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-ot-window-q4" />
+    <ad fileName="h-pg-50-q4.png" url="https://inedo.com/proget/5.0?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-50-q4" />
+    <ad fileName="pg-cloud-q4.png" url="https://inedo.com/support/documentation/proget/storage/cloud-storage?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=pg-cloud-q4" />
+    <ad fileName="h-pg-cloud-q4.png" url="https://inedo.com/support/documentation/proget/storage/cloud-storage?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-cloud-q4" />
+    <ad fileName="pg-docker-q4.png" url="https://inedo.com/support/documentation/proget/core-concepts/containers?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=pg-docker-q4" />
+    <ad fileName="h-pg-docker-q4.png" url="https://inedo.com/support/documentation/proget/core-concepts/containers?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-docker-q4" />
+    <ad fileName="pg-manage-q4.png" url="https://inedo.com/proget?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=pg-manage-q4" />
+    <ad fileName="h-pg-manage-q4.png" url="https://inedo.com/proget?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-manage-q4" />
     <ad fileName="bm-pipelines-as-code-300X250.png" url="http://inedo.com/promos/buildmaster-landing-pipelines?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=pipelines&amp;utm_campaign=Q4-2016" />
-    <ad fileName="ot-built-for-windows-purple-300X250.png" url="http://inedo.com/promos/otter-v1?utm_source=TDWTF&amp;utm_medium=300.250&amp;utm_term=Otter&amp;utm_content=build-for-windows&amp;utm_campaign=Q4-2016" />
-    <ad fileName="ot-floating-otter-300X250.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=floating-otter&amp;utm_campaign=Q4-2016" />
-    <ad fileName="ot-geometric-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
-    <ad fileName="ot-iac-circle-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=iac-circle&amp;utm_campaign=Q4-2016" />
-    <ad fileName="sq-nuget-details.png" url="https://register.gotowebinar.com/register/970291909971644931?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_campaign=Details&amp;utm_content=NuGet_Training" />
-    <ad fileName="sq-nuget-simple.png" url="https://register.gotowebinar.com/register/970291909971644931?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_campaign=Simple&amp;utm_content=NuGet_Training" />
   </company>
-
   <company name="Inedo3" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf15">
-    <ad fileName="inedo-728by90_intro-otter3.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter3" />
-    <ad fileName="inedo-728by90_intro-otter6.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter6" />
-    <ad fileName="horiz-nuget-simple.png" url="https://register.gotowebinar.com/register/970291909971644931?utm_source=TDWTF&amp;utm_medium=970x90&amp;utm_campaign=Simple&amp;utm_content=NuGet_Training" />
-    <ad fileName="horiz-nuget-details.png" url="https://register.gotowebinar.com/register/970291909971644931?utm_source=TDWTF&amp;utm_medium=970x90&amp;utm_campaign=Details&amp;utm_content=NuGet_Training" />
-    <ad fileName="inedo-300by250_intro-otter8.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter8square" />
-    <ad fileName="inedo-300by250_intro-otter9.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TheDailyWTF&amp;utm_medium=banner&amp;utm_campaign=TDWTF-Q3-2015&amp;utm_content=otter9square" />
-    <ad fileName="bm-geometric-logo-300X250.png" url="http://inedo.com/promos/buildmaster-v5?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
+    <ad fileName="bm-deploy-q4.png" url="https://inedo.com/solutions/release-deployment?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=bm-deploy-q4" />
+    <ad fileName="h-bm-deploy-q4.png" url="https://inedo.com/solutions/release-deployment?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-bm-deploy-q4" />
+    <ad fileName="inedo-ps-q4.png" url="https://inedo.com/products?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=inedo-ps-q4" />
+    <ad fileName="inedo-pts-q4.png" url="https://inedo.com/products?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=inedo-pts-q4" />
+    <ad fileName="h-inedo-ps-q4.png" url="https://inedo.com/products?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-inedo-ps-q4" />
+    <ad fileName="h-inedo-pts-q4.png" url="https://inedo.com/products?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-inedo-pts-q4" />
+    <ad fileName="ot-powershell-q4.png" url="https://inedo.com/promos/otter-ps-windows-horiz-q12017?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=ot-powershell-q4" />
+    <ad fileName="ot-window-q4.png" url="https://inedo.com/promos/otter-ps-windows-horiz-q12017?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=ot-window-q4" />
+    <ad fileName="h-ot-powershell-q4.png" url="https://inedo.com/promos/otter-ps-windows-horiz-q12017?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-ot-powershell-q4" />
+    <ad fileName="h-ot-window-q4.png" url="https://inedo.com/promos/otter-ps-windows-horiz-q12017?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-ot-window-q4" />
+    <ad fileName="h-pg-50-q4.png" url="https://inedo.com/proget/5.0?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-50-q4" />
+    <ad fileName="pg-cloud-q4.png" url="https://inedo.com/support/documentation/proget/storage/cloud-storage?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=pg-cloud-q4" />
+    <ad fileName="h-pg-cloud-q4.png" url="https://inedo.com/support/documentation/proget/storage/cloud-storage?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-cloud-q4" />
+    <ad fileName="pg-docker-q4.png" url="https://inedo.com/support/documentation/proget/core-concepts/containers?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=pg-docker-q4" />
+    <ad fileName="h-pg-docker-q4.png" url="https://inedo.com/support/documentation/proget/core-concepts/containers?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-docker-q4" />
+    <ad fileName="pg-manage-q4.png" url="https://inedo.com/proget?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=pg-manage-q4" />
+    <ad fileName="h-pg-manage-q4.png" url="https://inedo.com/proget?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-manage-q4" />
     <ad fileName="bm-pipelines-as-code-300X250.png" url="http://inedo.com/promos/buildmaster-landing-pipelines?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=pipelines&amp;utm_campaign=Q4-2016" />
-    <ad fileName="ot-built-for-windows-purple-300X250.png" url="http://inedo.com/promos/otter-v1?utm_source=TDWTF&amp;utm_medium=300.250&amp;utm_term=Otter&amp;utm_content=build-for-windows&amp;utm_campaign=Q4-2016" />
-    <ad fileName="ot-floating-otter-300X250.png" url="http://inedo.com/promos/incremental-infrastructure?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=floating-otter&amp;utm_campaign=Q4-2016" />
-    <ad fileName="ot-geometric-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=geometric-logo&amp;utm_campaign=Q4-2016" />
-    <ad fileName="ot-iac-circle-logo-300X250.png" url="http://inedo.com/otter?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=Otter&amp;utm_content=iac-circle&amp;utm_campaign=Q4-2016" />
-    <ad fileName="sq-nuget-details.png" url="https://register.gotowebinar.com/register/970291909971644931?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_campaign=Details&amp;utm_content=NuGet_Training" />
-    <ad fileName="sq-nuget-simple.png" url="https://register.gotowebinar.com/register/970291909971644931?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_campaign=Simple&amp;utm_content=NuGet_Training" />
   </company>
-
   <company name="Inedo4" defaultUrl="http://inedo.com/?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=suits&amp;utm_campaign=sp-set09-16">
     <ad fileName="rel-970by90_h1.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=suits&amp;utm_campaign=sp-set09-16" />
     <ad fileName="rel-970by90_h3.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=characters-all&amp;utm_campaign=sp-set09-16" />
@@ -57,24 +67,9 @@
     <ad fileName="rel-300by250_lr.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=lr&amp;utm_campaign=sp-set09-16" />
     <ad fileName="rel-300by250_pd.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=pd&amp;utm_campaign=sp-set09-16" />
     <ad fileName="abc-970by90_h2.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=cookies&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="abc-970by90_h3.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=blurb&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="abc-970by90_h4.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=edu&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="abc-970by90_h5.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=future&amp;utm_campaign=sp-set09-16" />
     <ad fileName="abc-300by250_2.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=puns&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="abc-300by250_3.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=future&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="abc-300by250_4.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=unicorns&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="abc-300by250_5.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=cookies&amp;utm_campaign=sp-set09-16" />
     <ad fileName="abc-300by250_6.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=cover&amp;utm_campaign=sp-set09-16" />
     <ad fileName="abc-300by250_7.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=coloring&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="co-bills-stop-bad-code-970x90.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=banner&amp;utm_content=stop&amp;utm_campaign=set09-16" />
-    <ad fileName="co-portraits-code-offsets-970x90.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=banner&amp;utm_content=portrait-slogan&amp;utm_campaign=set09-16" />
-    <ad fileName="co-portraits-code-offsets-cta-970x90.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=banner&amp;utm_content=portrait-cta&amp;utm_campaign=set09-16" />
-    <ad fileName="co-portraits-no-text-970x90.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=banner&amp;utm_content=portrait-no-text&amp;utm_campaign=set09-16" />
-    <ad fileName="co-featuring-ada-300x250.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=feat-ada&amp;utm_campaign=set09-16" />
-    <ad fileName="co-latest-inedo-300x250.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=get-yours&amp;utm_campaign=set09-16" />
-    <ad fileName="co-stop-bad-code-300x250.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=stop&amp;utm_campaign=set09-16" />
-    <ad fileName="co-wtf-code-300x250.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=wtf-code&amp;utm_campaign=set09-16" />
-    <ad fileName="co-wtf-code-offsets-300x250.png" url="http://inedo.com/offset?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=wtf-arrow&amp;utm_campaign=set09-16" />
   </company>
   <company name="Puppet1" defaultUrl="https://puppetlabs.com/puppet/puppet-apps/application-orchestration?ls=advertisement&amp;ccn=ankeny-2015&amp;pub=dailywtf&amp;cid=701G0000000Fl5t&amp;utm_medium=banner&amp;utm_campaign=ankeny-2015&amp;utm_source=dailywtf&amp;utm_content=ankeny-news">
     <ad fileName="puppet-300x250_D911-display-ads-PE-DailyWTF.jpg" />
