@@ -71,16 +71,12 @@
     <ad fileName="abc-300by250_6.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=cover&amp;utm_campaign=sp-set09-16" />
     <ad fileName="abc-300by250_7.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=coloring&amp;utm_campaign=sp-set09-16" />
   </company>
-  <company name="Puppet1" defaultUrl="https://puppetlabs.com/puppet/puppet-apps/application-orchestration?ls=advertisement&amp;ccn=ankeny-2015&amp;pub=dailywtf&amp;cid=701G0000000Fl5t&amp;utm_medium=banner&amp;utm_campaign=ankeny-2015&amp;utm_source=dailywtf&amp;utm_content=ankeny-news">
-    <ad fileName="puppet-300x250_D911-display-ads-PE-DailyWTF.jpg" />
-    <ad fileName="puppet-970x90_D911-display-ads-PE-DailyWTF.jpg" />
-  </company>
-  <company name="Atalasoft1" defaultUrl="http://www.atalasoft.com/Home?utm_source=dailywtf&amp;utm_medium=banner&amp;utm_campaign=dailywtf%20ads">
-    <ad fileName="Atalasoft-300x250_Savvy.gif" />
-    <ad fileName="Atalasoft-728x90_Savvy.gif" />
-  </company>
   <company name="Hired1" defaultUrl="https://hired.com/join?utm_source=sponsor&amp;utm_medium=thedailywtf&amp;utm_content=banner&amp;utm_campaign=q1-17-thedailywtf-banner">
     <ad fileName="b2c-findyournext_728x90.gif" />
     <ad fileName="b2c-findyournext_300x250.gif" />    
+  </company>
+  <company name="Raygun1" defaultUrl="https://raygun.com/landing?utm_source=tdwtf&amp;utm_medium=sponsored&amp;utm_campaign=banner">
+    <ad fileName="raygun1_300x250.jpg" />
+    <ad fileName="raygun1_728x90.jpg" />
   </company>
 </companies>
