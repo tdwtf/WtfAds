@@ -59,22 +59,6 @@
     <ad fileName="h-pg-manage-q4.png" url="https://inedo.com/proget?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=h-pg-manage-q4" />
     <ad fileName="bm-pipelines-as-code-300X250.png" url="http://inedo.com/promos/buildmaster-landing-pipelines?utm_source=TDWTF&amp;utm_medium=300x250&amp;utm_term=BuildMaster&amp;utm_content=pipelines&amp;utm_campaign=Q4-2016" />
   </company>
-  <company name="Inedo4" defaultUrl="http://inedo.com/?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=suits&amp;utm_campaign=sp-set09-16">
-    <ad fileName="rel-970by90_h1.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=suits&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="rel-970by90_h3.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=characters-all&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="rel-300by250_1.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=nerdy&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="rel-300by250_jp.png" url="http://inedo.com/release??utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=jp&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="rel-300by250_lr.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=lr&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="rel-300by250_pd.png" url="http://inedo.com/release?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=pd&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="abc-970by90_h2.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=top-banner&amp;utm_content=cookies&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="abc-300by250_2.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=puns&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="abc-300by250_6.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=cover&amp;utm_campaign=sp-set09-16" />
-    <ad fileName="abc-300by250_7.png" url="http://inedo.com/abc?utm_source=dailywtf&amp;utm_medium=sidebar-ad&amp;utm_content=coloring&amp;utm_campaign=sp-set09-16" />
-  </company>
-  <company name="Hired1" defaultUrl="https://hired.com/join?utm_source=sponsor&amp;utm_medium=thedailywtf&amp;utm_content=banner&amp;utm_campaign=q1-17-thedailywtf-banner">
-    <ad fileName="b2c-findyournext_728x90.gif" />
-    <ad fileName="b2c-findyournext_300x250.gif" />    
-  </company>
   <company name="Raygun1" defaultUrl="https://raygun.com/landing?utm_source=tdwtf&amp;utm_medium=sponsored&amp;utm_campaign=banner">
     <ad fileName="raygun1_300x250.jpg" />
     <ad fileName="raygun1_728x90.jpg" />
