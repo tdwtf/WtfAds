@@ -53,8 +53,4 @@
     <ad fileName="Horiz-circles.png" url="https://inedo.com/buildmaster/landing/deployments?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Horiz-circles" />
     <ad fileName="Horiz-convay.png" url="https://inedo.com/buildmaster/landing/deployments?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Horiz-convay" />
   </company>
-  <company name="Raygun1" defaultUrl="https://raygun.com/landing?utm_source=tdwtf&amp;utm_medium=sponsored&amp;utm_campaign=banner">
-    <ad fileName="raygun1_300x250.jpg" />
-    <ad fileName="raygun1_728x90.jpg" />
-  </company>
 </companies>
