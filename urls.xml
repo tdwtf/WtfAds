@@ -53,4 +53,28 @@
     <ad fileName="Horiz-circles.png" url="https://inedo.com/buildmaster/landing/deployments?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Horiz-circles" />
     <ad fileName="Horiz-convay.png" url="https://inedo.com/buildmaster/landing/deployments?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Horiz-convay" />
   </company>
+  <company name="WTFSurvey1" defaultUrl="https://thedailywtf.com/articles/first-annual-developer-mentorship-survey?utm_source=header&amp;utm_medium=image&amp;utm_campaign=win-a-mug">
+    <ad fileName="win-a-mug.png" url="https://ine.do/2PdXszJ" />
+    <ad fileName="boss-good-mentor.png" url="https://ine.do/33V7UzX" />
+    <ad fileName="really-think-of-your-boss.png" url="https://ine.do/32IPfqS" />
+    <ad fileName="2019-mentorship.png" url="https://ine.do/32J9HIj" />
+    <ad fileName="boss-square.png" url="https://ine.do/33XBjtC" />
+    <ad fileName="questions-boss-mug.png" url="https://ine.do/32HOizg" />
+  </company>
+  <company name="WTFSurvey2" defaultUrl="https://thedailywtf.com/articles/first-annual-developer-mentorship-survey?utm_source=header&amp;utm_medium=image&amp;utm_campaign=win-a-mug">
+    <ad fileName="win-a-mug.png" url="https://ine.do/2PdXszJ" />
+    <ad fileName="boss-good-mentor.png" url="https://ine.do/33V7UzX" />
+    <ad fileName="really-think-of-your-boss.png" url="https://ine.do/32IPfqS" />
+    <ad fileName="2019-mentorship.png" url="https://ine.do/32J9HIj" />
+    <ad fileName="boss-square.png" url="https://ine.do/33XBjtC" />
+    <ad fileName="questions-boss-mug.png" url="https://ine.do/32HOizg" />
+  </company>
+  <company name="WTFSurvey3" defaultUrl="https://thedailywtf.com/articles/first-annual-developer-mentorship-survey?utm_source=header&amp;utm_medium=image&amp;utm_campaign=win-a-mug">
+    <ad fileName="win-a-mug.png" url="https://ine.do/2PdXszJ" />
+    <ad fileName="boss-good-mentor.png" url="https://ine.do/33V7UzX" />
+    <ad fileName="really-think-of-your-boss.png" url="https://ine.do/32IPfqS" />
+    <ad fileName="2019-mentorship.png" url="https://ine.do/32J9HIj" />
+    <ad fileName="boss-square.png" url="https://ine.do/33XBjtC" />
+    <ad fileName="questions-boss-mug.png" url="https://ine.do/32HOizg" />
+  </company>
 </companies>
