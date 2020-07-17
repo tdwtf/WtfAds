@@ -1,5 +1,6 @@
 <companies>
   <company name="Inedo1" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf18">
+    <ad fileName="horiz-cyclops-2020-01.png" url="https://info.inedo.com/private-nuget-server?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_campaign=Cyclops2020&amp;utm_content=CYA1keepaway" />
     <ad fileName="sq-working-late.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-working-late" />
     <ad fileName="sq-checklist.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-checklist" />
     <ad fileName="horiz-working-late.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Horiz-working-late" />
@@ -18,6 +19,7 @@
     <ad fileName="Horiz-convay.png" url="https://inedo.com/buildmaster/landing/deployments?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Horiz-convay" />
   </company>
   <company name="Inedo2" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf18">
+    <ad fileName="horiz-cyclops-2020-02.png" url="https://info.inedo.com/private-nuget-server?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_campaign=Cyclops2020&amp;utm_content=CYA2keepsafe" />
     <ad fileName="sq-working-late.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-working-late" />
     <ad fileName="sq-checklist.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-checklist" />
     <ad fileName="horiz-working-late.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Horiz-working-late" />
@@ -36,6 +38,7 @@
     <ad fileName="Horiz-convay.png" url="https://inedo.com/buildmaster/landing/deployments?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Horiz-convay" />H
   </company>
  <company name="Inedo3" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf18">
+    <ad fileName="horiz-cyclops-2020-03.png" url="https://info.inedo.com/private-nuget-server?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_campaign=Cyclops2020&amp;utm_content=CYA3covered" />
     <ad fileName="sq-working-late.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-working-late" />
     <ad fileName="sq-checklist.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-checklist" />
     <ad fileName="horiz-working-late.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Horiz-working-late" />
