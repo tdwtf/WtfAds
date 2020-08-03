@@ -1,5 +1,6 @@
 <companies>
   <company name="Inedo1" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf18">
+    <ad fileName="sq-cyclops-2-2020-1.png" url="https://inedo.com/proget/private-nuget-server?utm_source=TDWTF&amp;utm_medium=square&amp;utm_campaign=Cyclops2020&amp;utm_content=private" />
     <ad fileName="sq-working-late.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-working-late" />
     <ad fileName="sq-checklist.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-checklist" />
     <ad fileName="sq-weekends.png" url="https://inedo.com/buildmaster/landing/productivity?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-weekends" />
@@ -11,6 +12,7 @@
     <ad fileName="Sq-convay-teal.png" url="https://inedo.com/buildmaster/landing/deployments?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-convay-teal" />
   </company>
   <company name="Inedo2" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf18">
+    <ad fileName="sq-cyclops-2-2020-2.png" url="https://inedo.com/proget/private-nuget-server?utm_source=TDWTF&amp;utm_medium=square&amp;utm_campaign=Cyclops2020&amp;utm_content=proxy" />
     <ad fileName="sq-working-late.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-working-late" />
     <ad fileName="sq-checklist.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-checklist" />
     <ad fileName="sq-weekends.png" url="https://inedo.com/buildmaster/landing/productivity?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-weekends" />
@@ -22,6 +24,7 @@
     <ad fileName="Sq-convay-teal.png" url="https://inedo.com/buildmaster/landing/deployments?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-convay-teal" />
   </company>
  <company name="Inedo3" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf18">
+    <ad fileName="sq-cyclops-2-2020-3.png" url="https://inedo.com/proget/private-nuget-server?utm_source=TDWTF&amp;utm_medium=square&amp;utm_campaign=Cyclops2020&amp;utm_content=safe" />
     <ad fileName="sq-working-late.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-working-late" />
     <ad fileName="sq-checklist.png" url="https://inedo.com/buildmaster/landing/productive?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-checklist" />
     <ad fileName="sq-weekends.png" url="https://inedo.com/buildmaster/landing/productivity?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_content=Sq-weekends" />
