@@ -1,8 +1,11 @@
 <companies>
   <company name="InedoSquare" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf18">
-    <ad fileName="TDWTF_dotnet8-guide_202405_320x250.png" url="https://pages.inedo.com/dotnet5-guide/?utm_source=TDWTF&amp;utm_medium=Square_campaign=Campbell&amp;utm_content=012921" />
+    <ad fileName="Bufo-TDWTF-728x90-1.png" url="https://https://rebrand.ly/ezu4pm0" />
   </company>
  <company name="Inedo" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf18">
-    <ad fileName="TDWTF_dotnet8-guide_202405_728x90.png" url="https://pages.inedo.com/dotnet5-guide/?utm_source=TDWTF&amp;utm_medium=Banner&amp;utm_campaign=Campbell&amp;utm_content=012921" />
+    <ad fileName="Bufo-TDWTF-728x90-2.png" url="https://https://rebrand.ly/ezu4pm0" />
+  </company>
+   <company name="Inedo" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf18">
+    <ad fileName="Bufo-TDWTF-728x90-3.png" url="https://https://rebrand.ly/ezu4pm0" />
   </company>
 </companies>
