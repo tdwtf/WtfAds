@@ -2,9 +2,4 @@
 # This .gitignore file was automatically created by Microsoft(R) Visual Studio.
 ################################################################################
 
-/.vs/WtfAds/v16/TestStore/0/testlog.manifest
-/.vs/WtfAds/v16/TestStore/0/000.testlog
-/.vs/WtfAds/v16/TestStore/0
-/.vs/WtfAds/v16/.suo
-/.vs/VSWorkspaceState.json
-/.vs/slnx.sqlite
+/.vs
