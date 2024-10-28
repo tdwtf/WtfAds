@@ -1,18 +1,18 @@
 <companies>
 	<company name="InedoSquare" defaultUrl="http://inedo.com/?utm_source=tdwtf&amp;utm_medium=banner&amp;utm_content=sponsored&amp;utm_campaign=dailywtf18">
-    <ad fileName="TDWTF_artifactory-guide_202410_300x250.png" url="https://inedo.com/support/resources/migrate-from-artifactory?utm_campaign=artifactory&utm_source=tdwtf" />
-    <ad fileName="TDWTF_buildmaster-guide_202410_300x250.png" url="https://inedo.com/buildmaster?utm_campaign=bmdl&utm_source=tdwtf" />
-    <ad fileName="TDWTF_dotnet-guide_202410_300x250.png" url="https://inedo.com/support/whitepapers/dotnet-guide?utm_campaign=dotnet&utm_source=tdwtf" />
-    <ad fileName="TDWTF_jenkins-guide_202410_300x250.png" url="https://inedo.com/support/whitepapers/level-up-your-cicd-with-jenkins?utm_campaign=jenkins&utm_source=tdwtf" />
-    <ad fileName="TDWTF_nuget-guide_202410_300x250.png" url="https://inedo.com/support/whitepapers/nuget-guide?utm_campaign=nuget&utm_source=tdwtf" />
-    <ad fileName="TDWTF_proget-guide_202410_300x250.png" url="https://inedo.com/ProGet?utm_campaign=pgdl&utm_source=tdwtf" />
+    <ad fileName="TDWTF_artifactory-guide_202410_300x250.png" url="https://inedo.com/support/resources/migrate-from-artifactory?utm_campaign=artifactory&amp;utm_source=tdwtf" />
+    <ad fileName="TDWTF_buildmaster-guide_202410_300x250.png" url="https://inedo.com/buildmaster?utm_campaign=bmdl&amp;utm_source=tdwtf" />
+    <ad fileName="TDWTF_dotnet-guide_202410_300x250.png" url="https://inedo.com/support/whitepapers/dotnet-guide?utm_campaign=dotnet&amp;utm_source=tdwtf" />
+    <ad fileName="TDWTF_jenkins-guide_202410_300x250.png" url="https://inedo.com/support/whitepapers/level-up-your-cicd-with-jenkins?utm_campaign=jenkins&amp;utm_source=tdwtf" />
+    <ad fileName="TDWTF_nuget-guide_202410_300x250.png" url="https://inedo.com/support/whitepapers/nuget-guide?utm_campaign=nuget&amp;utm_source=tdwtf" />
+    <ad fileName="TDWTF_proget-guide_202410_300x250.png" url="https://inedo.com/ProGet?utm_campaign=pgdl&amp;utm_source=tdwtf" />
 	</company>
 	<company name="Inedo" defaultUrl="http://inedo.com/?utm_property=TDWTF">
-    <ad fileName="TDWTF_artifactory-guide_202410_728x90.png" url="https://inedo.com/support/resources/migrate-from-artifactory?utm_campaign=artifactory&utm_source=tdwtf" />
-    <ad fileName="TDWTF_buildmaster-guide_202410_728x90.png" url="https://inedo.com/buildmaster?utm_campaign=bmdl&utm_source=tdwtf" />
-    <ad fileName="TDWTF_dotnet-guide_202410_728x90.png" url="https://inedo.com/support/whitepapers/dotnet-guide?utm_campaign=dotnet&utm_source=tdwtf" />
-    <ad fileName="TDWTF_jenkins-guide_202410_728x90.png" url="https://inedo.com/support/whitepapers/level-up-your-cicd-with-jenkins?utm_campaign=jenkins&utm_source=tdwtf" />
-    <ad fileName="TDWTF_nuget-guide_202410_728x90.png" url="https://inedo.com/support/whitepapers/nuget-guide?utm_campaign=nuget&utm_source=tdwtf" />
-    <ad fileName="TDWTF_proget-guide_202410_728x90.png" url="https://inedo.com/ProGet?utm_campaign=pgdl&utm_source=tdwtf" />
+    <ad fileName="TDWTF_artifactory-guide_202410_728x90.png" url="https://inedo.com/support/resources/migrate-from-artifactory?utm_campaign=artifactory&amp;utm_source=tdwtf" />
+    <ad fileName="TDWTF_buildmaster-guide_202410_728x90.png" url="https://inedo.com/buildmaster?utm_campaign=bmdl&amp;utm_source=tdwtf" />
+    <ad fileName="TDWTF_dotnet-guide_202410_728x90.png" url="https://inedo.com/support/whitepapers/dotnet-guide?utm_campaign=dotnet&amp;utm_source=tdwtf" />
+    <ad fileName="TDWTF_jenkins-guide_202410_728x90.png" url="https://inedo.com/support/whitepapers/level-up-your-cicd-with-jenkins?utm_campaign=jenkins&amp;utm_source=tdwtf" />
+    <ad fileName="TDWTF_nuget-guide_202410_728x90.png" url="https://inedo.com/support/whitepapers/nuget-guide?utm_campaign=nuget&amp;utm_source=tdwtf" />
+    <ad fileName="TDWTF_proget-guide_202410_728x90.png" url="https://inedo.com/ProGet?utm_campaign=pgdl&amp;utm_source=tdwtf" />
 	</company>
 </companies>
